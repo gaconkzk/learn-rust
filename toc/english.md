@@ -16,7 +16,7 @@
 * [Iterators](../index.html?chapter=iterators&locale=en-US)
 * [Testing](../index.html?chapter=testing&locale=en-US)
 * [Small helpers](../index.html?chapter=little-helpers&locale=en-US)
-* **Task:** Redisish
+* **Task:** [Redisish](https://github.com/gaconkzk/rust-three-days-course/blob/master/assignments/redisish.md)
 
 ---
 
