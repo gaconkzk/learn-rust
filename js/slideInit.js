@@ -15,7 +15,7 @@ LocaleSelector.initialize({
         "en-US": "chapters/en-US/" + chapter + ".chapter",
         "de-DE": "chapters/de-DE/" + chapter + ".chapter",
         "es-ES": "chapters/es-ES/" + chapter + ".chapter",
-	"fr-Fr": "chapters/fr-FR/" + chapter + ".chapter"
+	    "fr-Fr": "chapters/fr-FR/" + chapter + ".chapter"
     },
     default: "en-US",
     reveal: {
